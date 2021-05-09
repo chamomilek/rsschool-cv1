@@ -9,6 +9,7 @@
 
 *Code examples:* :man_technologist:
 
+```
 buttonReset.addActionListener(new ActionListener() {
 public void actionPerformed(ActionEvent ev) {
 textFieldX.setText("0");
@@ -17,4 +18,5 @@ textFieldZ.setText("0");
 textFieldResult.setText("0");
 }
 });
+```
 

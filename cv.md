@@ -1,4 +1,4 @@
-**KARINA OSOPRILKO**
+:blossom: **KARINA OSOPRILKO** :blossom:
 
 *Contact Info :sunglasses: :* Email: chamomillekk@gmail.com
 
@@ -19,4 +19,8 @@ textFieldResult.setText("0");
 }
 });
 ```
+
+*Education:* Lectures on C++ and Java at a higher education institution.
+
+*English:* B1
 
